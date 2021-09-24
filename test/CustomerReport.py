@@ -1,6 +1,7 @@
 #%% 引入模块
 import pandas as pd
 import numpy as np
+from WindPy import*
 
 #%% 临时可删除
 # =============================================================================
